@@ -1,3 +1,6 @@
 [
-null
+null,
+{"id":1,"expanded":false,"name":"EVENT MAP","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":2,"expanded":false,"name":"START HERE","order":2,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":false,"name":"FARM","order":3,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
 ]
